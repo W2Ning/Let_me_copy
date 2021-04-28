@@ -4,9 +4,9 @@
 # 用法
 在Chrome地址栏中访问
 `chrome://extensions`
-[https://github.com/W2Ning/Let_me_copy/blob/main/extensions.png]
+![image](https://github.com/W2Ning/Let_me_copy/blob/main/extensions.png)
 点击插件图标，再点击`Let Me Copy`
-[https://github.com/W2Ning/Let_me_copy/blob/main/usage.png]
+![image](https://github.com/W2Ning/Let_me_copy/blob/main/usage.png)
 由于瀑布流的动态加载，
 新生成的信息需要再次点击`Let Me Copy`按钮才能解除限制
 
